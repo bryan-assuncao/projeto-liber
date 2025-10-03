@@ -96,7 +96,3 @@ python script.py
 - Agendamento automático (cron, cloud).  
 
 ---
-
-## Autor
-
-Desenvolvido por [Seu Nome] para o desafio de Estágio em Automação – Liber
