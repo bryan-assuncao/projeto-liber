@@ -1,4 +1,4 @@
-# Automação de Processamento de Candidaturas - Desafio Técnico (Liber)
+# Automação de Processamento de Candidaturas 
 
 Este projeto automatiza a leitura de e-mails de candidaturas recebidos no Gmail, extrai dados como nome, telefone e vaga, salva anexos e registra tudo em uma planilha Excel.
 
